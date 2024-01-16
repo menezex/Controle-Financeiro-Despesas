@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+body {
+  background: rgb(64, 145, 108);
+  background: linear-gradient(
+    180deg,
+    rgba(64, 145, 108, 1) 30%,
+    rgba(216, 243, 220, 1) 100%
+  );
+}
+
+.title-header {
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  font-weight: bold;
+}
+
+.container-main {
+  min-height: 470px;
+  max-height: 100vh;
+}
+
+.btn-adicionar {
+  background-color: #52b788;
+}
+
+.btn-adicionar:hover {
+  transform: scale(1.1);
+  background-color: #52b788;
+}
+
+.td-button {
+  width: 250px;
+  text-align: center;
+}
+
+.container-table {
+  max-height: 325px;
+  overflow: auto;
+}
+
+::-webkit-scrollbar-track {
+  background-color: #f4f4f4;
+}
+::-webkit-scrollbar {
+  width: 6px;
+  background: #f4f4f4;
+}
+::-webkit-scrollbar-thumb {
+  background: #dad7d7;
+}
+
+span {
+  font-size: 18px;
+}
+
+.saldo {
+  min-width: 100px;
+  max-width: 100px;
+}
+
+i {
+  pointer-events: none;
+}
