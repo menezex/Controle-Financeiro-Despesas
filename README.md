@@ -10,3 +10,10 @@
 --------------
 #### Projeto desenvolvimento para praticar o DOM do JavaScript, CRUD e uso do LocalStorage para guardar dados e consultar eles. 
 #### Foi utilizado também o Boostrap para dar estilo a página e a criação de um MODAL, para adicionar novas despesas e também editar uma já inserida. 
+
+# Versão Desktop
+<img src="https://github.com/menezex/Controle-Financeiro-Despesas/blob/main/imagens%20do%20Projeto/Desktop.gif" min-width="1450px" max-width="1450px" width="1450px">
+
+# Versão Mobile
+
+<img src="https://github.com/menezex/Controle-Financeiro-Despesas/blob/main/imagens%20do%20Projeto/Mobile.gif" min-width="450px" max-width="450px" width="450px">
